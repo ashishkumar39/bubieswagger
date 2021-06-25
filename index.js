@@ -1,10 +1,10 @@
 const quotes = [
     "Go bubie go! 🥳",
+    "Bubutummy thodi exercise krlia bethe bethe feli jari hai 🤓",
     "Your limitation - It's only your imagination! 😉",
     "I honestly think bubuji is the funniest person I’ve ever met. 🤪",
     "Always remember that bubie if you fall, I will pick you up… after I stop laughing xD 🤓",
     "Dream it. Wish it. Do it. 😎",
-    "Bubie kare kaam zordar",
     "Thanks for being there for me, even when I’m at my most annoying. 🤗",
     "Thank you for being the only person I talk to. 😌",
     "Bubutumtum pui",
